@@ -22,17 +22,14 @@
     <h2>Berikut ini gambar dari Perpustakaan Untan</h2>
     <img src="https://asset-2.tstatic.net/tribunpontianakwiki/foto/bank/images/perpustakaan-universitas-tanjungpura-pontianak.jpg" >
 
-    <body>
-  <h1>Video Profil Perpustakaan Perpustakaan Untan</h1>
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://youtu.be/Iqhk0z3SIug?si=VnIZyCkBR0WFzjCy" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
+   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video YouTube</title>
+</head>
+<body>
+    <h1>Video profi Perpustakaan Untan</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Iqhk0z3SIug" frameborder="0" allowfullscreen></iframe>
 </body>
 
     <h2>Audio</h2>
@@ -41,7 +38,7 @@
         <source src="music.ogg" type="audio/ogg">
         Browser Anda tidak mendukung tag audio.
     </audio>
-<h2>Formulir Perpustakaan iain fattahul muluk papua</h2>
+<h2>Formulir Perpustakaan Untan</h2>
     
     <form action="#" method="post">
         <table>
