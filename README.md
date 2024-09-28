@@ -31,11 +31,10 @@
     <h1>Video Profi Perpustakaan Untan</h1>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Iqhk0z3SIug" frameborder="0" allowfullscreen></iframe>
     
-    <h1>AUDIO/AUTOPLAY</h1>
-    <audio controls autoplay>
-        <source src="path/to/your/audiofile.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
+   <audio controls>
+  <source src="musik.mp3" type="audio/mpeg">
+  <source src="musik.ogg" type="audio/ogg">
+</audio>
 </body>
 
 <audio autoplay:
