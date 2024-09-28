@@ -34,10 +34,6 @@
 
     <h1> AUDIO/AUTOPLAY</h1>
 
-<body style = "background: url(black.jpg):
-
-background-size: fixed:")
-
 <audio autoplay:
 
 <source src = "Dancing Queen (From 'Mamma Mia!' Original Motion Picture Soundtrack) - Meryl Streep (youtube) (1).mp3" type="audio/
