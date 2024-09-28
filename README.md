@@ -32,12 +32,19 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Iqhk0z3SIug" frameborder="0" allowfullscreen></iframe>
 </body>
 
-    <h2>Audio</h2>
-    <audio controls>
-        <source src="Dancing Queen (From 'Mamma Mia!' Original Motion Picture Soundtrack) - Meryl Streep (youtube) (1).mp3" type="audio/mpeg">
-        <source src="music.ogg" type="audio/ogg">
-        Browser Anda tidak mendukung tag audio.
-    </audio>
+    <h1> AUDIO/AUTOPLAY</h1>
+
+<body style = "background: url(black.jpg):
+
+background-size: fixed:")
+
+<audio autoplay:
+
+<source src = "" type="audio/
+
+mp3)
+
+</audio>
 <h2>Formulir Perpustakaan Untan</h2>
     
     <form action="#" method="post">
